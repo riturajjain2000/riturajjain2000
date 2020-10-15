@@ -1,4 +1,4 @@
-## Hola Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  \nI'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> an App and Game developer from India .<p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
+## Hola Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> an App and Game developer from India .<p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
 

@@ -11,31 +11,31 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
   <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rrjain20122000@gmail.com">
   <img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/riturajjain2000/">
   <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/rituraj_jain">
   <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/users/12618131/rituraj-jain">
   <img align="center" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://twitter.com/riturajjain2000">
   <img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/rrjain20122000">
   <img align="center" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>  

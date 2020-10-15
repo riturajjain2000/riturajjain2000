@@ -1,19 +1,28 @@
-## Hola Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> an App and Game developer from India .<p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
+## Hola Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App and Game developer from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
 
-<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/riturajjain2000/" > <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/riturajjain2000" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/rituraj_jain">  <img height="30" img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/rrjain20122000">    <img height="30" img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://stackoverflow.com/users/12618131/rituraj-jain">    <img height="30" img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/abhisheknaiidu">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/geekyabhi/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
 
 

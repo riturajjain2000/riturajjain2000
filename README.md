@@ -66,12 +66,16 @@ Hi, I'm [Rituraj Jain](https://riturajjain2000.github.io/), App and Game develop
 
 <hr>
 
-<details>
+
 <summary>📈 My GitHub Stats</summary>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
+</a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" alt="riturajjain2000" />
 
-</details>
 
 </br>
 

@@ -1,10 +1,6 @@
 ## Hola Folks,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
-<div align="center">
-
-## Show some ❤️ by starring some of the repositories!
-</div>
 <br>  
 <br>  
 
@@ -40,6 +36,12 @@
 
 <br>  
 <br>  
+<div align="center">
+
+## Show some ❤️ And go star some of my repositories!😁
+</div>
+<br>
+<br>
 
 
 

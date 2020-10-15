@@ -1,16 +1,34 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Fellas, Rituraj here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
+<div align="center">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola Folks, 
+  [Rituraj](https://riturajjain2000.github.io/) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
+  <h2>I am an App and Game developer 👨🏻‍💻 from India.</h2>
+
+</div>
+<br>
+
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=riturajjain2000"  /> </p>
+ 
+ </br>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/riturajjain2000/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/riturajjain2000" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/riturajjain2000/" > <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/riturajjain2000" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/rituraj_jain">  <img height="30" img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/rrjain20122000">    <img height="30" img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://stackoverflow.com/users/12618131/rituraj-jain">    <img height="30" img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 </p>
 
-<br>
 
-Hi, I'm [Rituraj Jain](https://riturajjain2000.github.io/), App and Game developer 👨🏻‍💻 from India.
 <br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -43,33 +61,21 @@ Hi, I'm [Rituraj Jain](https://riturajjain2000.github.io/), App and Game develop
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
  - 📫 How to reach me: [rrjain20122000@gmail.com](mailto:rrjain20122000@gmail.com)
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajjain2000" alt="riturajjain2000" /> </p>
  
- </br>
 
 
 ---
-### 📢 Find me elsewhere
+## 📢 Find me elsewhere
 <p align="left">
-  <a href="https://www.codechef.com/users/rituraj_jain">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-
-  <a href="https://www.hackerrank.com/rrjain20122000">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
 <hr>
 
 
-<summary>📈 My GitHub Stats</summary>
+##📈 My GitHub Stats
 <a href="https://github.com/riturajjain2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/riturajjain2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
@@ -81,5 +87,5 @@ Hi, I'm [Rituraj Jain](https://riturajjain2000.github.io/), App and Game develop
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of the repositories!
 </div>

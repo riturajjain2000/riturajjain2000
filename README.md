@@ -41,7 +41,7 @@ Hi, I'm [Rituraj Jain](https://riturajjain2000.github.io/), App and Game develop
 
 <img align="right" alt="GIF" src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504" />
 
- - 📫 How to reach me: [rrjain20122000@gmail.com](mailto:rrjain20122000@gmail.com);
+ - 📫 How to reach me: [rrjain20122000@gmail.com](mailto:rrjain20122000@gmail.com)
  <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajjain2000" alt="riturajjain2000" /> </p>

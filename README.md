@@ -1,6 +1,6 @@
 <div align="center">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola Folks, 
-  [Rituraj](https://riturajjain2000.github.io/) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
+  ![Rituraj](https://riturajjain2000.github.io/) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
   <h2>I am an App and Game developer 👨🏻‍💻 from India.</h2>
 
 </div>

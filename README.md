@@ -1,4 +1,4 @@
-## Hola Folks,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App and Game developer from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
+## Hola Folks,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 
 
-## 𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## 🐱‍💻🖥️𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
@@ -80,6 +80,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br>
+<br>  
 <a href="https://github.com/riturajjain2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
 </a>

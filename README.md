@@ -2,7 +2,8 @@
 
 
 
-##<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
+##--
+<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -18,7 +19,7 @@
   <img align="left" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/12618131/rituraj-jain">">
+<a href="https://stackoverflow.com/users/12618131/rituraj-jain">
   <img align="left" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
 

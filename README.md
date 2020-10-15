@@ -5,7 +5,11 @@
 
 ## Show some ❤️ by starring some of the repositories!
 </div>
+<br>  
+<br>  
+<br>  
 
+<div align="center">
 <a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -33,8 +37,10 @@
 <a href="https://www.hackerrank.com/rrjain20122000">
   <img align="left" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+</div>
 
-
+<br>  
+<br>  
 <br>  
 
 
@@ -67,6 +73,8 @@
 
 
 <img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<br>  
+<br>  
 
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <a href="https://github.com/riturajjain2000">
@@ -76,7 +84,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
 </a>
 
-
-
-<br>
 

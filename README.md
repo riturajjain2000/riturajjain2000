@@ -1,26 +1,20 @@
-### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/)I am an App and Game developer 👨🏻‍💻 from India<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/></p>
-
-<div align="center">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola Folks,[𝕽𝖎𝖙𝖚𝖗𝖆𝖏](mailto:rrjain20122000@gmail.com) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am an App and Game developer 👨🏻‍💻 from India.</h1>
-</div>
-<br>
+## Hola Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I am an App and Game developer from India .<p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=riturajjain2000"  /> </p>
  
  </br>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/riturajjain2000/" > <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/riturajjain2000/" > <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/riturajjain2000" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/riturajjain2000" >  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/users/rituraj_jain">  <img height="30" img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/rituraj_jain">  <img height="30" img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/rrjain20122000">    <img height="30" img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/rrjain20122000">    <img height="30" img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/users/12618131/rituraj-jain">    <img height="30" img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

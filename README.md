@@ -1,4 +1,4 @@
-## Hola Folks,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
+## Hola Folks,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
 <br>  
@@ -38,7 +38,7 @@
 <br>  
 <div align="center">
 
-## Show some ❤️ And go star some of my repositories!😁
+## Show some ❤️ And go star some of my repositories!
 </div>
 <br>
 <br>
@@ -47,7 +47,7 @@
 
 
 
-## 🐱‍💻🖥️𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="20px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
@@ -67,9 +67,10 @@
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=ffffff)
 
-![TailwindCss](http://img.shields.io/badge/-TailwindCss-red?style=for-the-badge&logo=Tailwind%20Css&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-blueviolet?style=for-the-badge&logo=Adobe%20XD&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
+![TailwindCss](http://img.shields.io/badge/-TailwindCss-red?style=for-the-badge&logo=Tailwind%20Css&logoColor=ffffff)
+
 
 
 

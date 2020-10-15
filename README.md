@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola Folks,[Rituraj] (https://riturajjain2000.github.io/) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola Folks, [Rituraj](https://riturajjain2000.github.io) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <h2>I am an App and Game developer 👨🏻‍💻 from India.</h2>
 
 </div>
@@ -63,16 +63,11 @@
  
 
 
----
-## 📢 Find me elsewhere
-<p align="left">
-  
-</p>
-
-<hr>
 
 
-##📈 My GitHub Stats
+
+
+## 📈 My GitHub Stats
 <a href="https://github.com/riturajjain2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>

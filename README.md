@@ -1,8 +1,11 @@
 ## Hola Folks,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App and Game developer from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
 
 
+<div align="center">
 
-##--
+## Show some ❤️ by starring some of the repositories!
+</div>
+
 <a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -77,7 +80,3 @@
 
 <br>
 
-<div align="center">
-
-## Show some ❤️ by starring some of the repositories!
-</div>

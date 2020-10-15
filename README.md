@@ -7,41 +7,40 @@
 </div>
 <br>  
 <br>  
-<br>  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="mailto:rrjain20122000@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
+  <img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
 
 <a href="https://www.instagram.com/riturajjain2000/">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://www.codechef.com/users/rituraj_jain">
-  <img align="left" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 <a href="https://stackoverflow.com/users/12618131/rituraj-jain">
-  <img align="left" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+  <img align="center" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
 
 <a href="https://twitter.com/riturajjain2000">
-  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.hackerrank.com/rrjain20122000">
-  <img align="left" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 </div>
 
 <br>  
 <br>  
-<br>  
+
 
 
 
@@ -74,12 +73,13 @@
 
 <img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <br>  
-<br>  
+
 
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <a href="https://github.com/riturajjain2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br>
 <a href="https://github.com/riturajjain2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
 </a>

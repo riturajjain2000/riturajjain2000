@@ -38,7 +38,7 @@
 <br>  
 <div align="center">
 
-## Show some ❤️ And go star some of my repositories!
+## Show some ❤️ And go star some of my repositories!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
 </div>
 <br>
 <br>
@@ -47,7 +47,7 @@
 
 
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="20px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)

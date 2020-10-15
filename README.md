@@ -1,7 +1,10 @@
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/)I am an App and Game developer 👨🏻‍💻 from India<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/></p>
+
 <div align="center">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola Folks,[𝕽𝖎𝖙𝖚𝖗𝖆𝖏](mailto:rrjain20122000@gmail.com) here. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am an App and Game developer 👨🏻‍💻 from India.</h1>
 </div>
 <br>
+
 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=riturajjain2000"  /> </p>
  

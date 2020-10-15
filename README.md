@@ -53,20 +53,25 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=Unity&logoColor=ffffff)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=for-the-badge&logo=Unreal%20Engine&logoColor=ffffff)
+<br>
+<br>
 
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![mySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL&logoColor=ffffff)
-
+<br>
+<br>
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=000000)
 ![Dart](https://img.shields.io/badge/-Dart-cyan?style=for-the-badge&logo=Dart&logoColor=000000)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=C%20Sharp&logoColor=ffffff)
 
-
+<br>
+<br>
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=ffffff)
-
+<br>
+<br>
 ![TailwindCss](http://img.shields.io/badge/-TailwindCss-red?style=for-the-badge&logo=Tailwind%20Css&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-blueviolet?style=for-the-badge&logo=Adobe%20XD&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)

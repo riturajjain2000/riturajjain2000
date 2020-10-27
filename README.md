@@ -17,6 +17,10 @@
   <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://twitter.com/riturajjain2000">
+  <img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.codechef.com/users/rituraj_jain">
   <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -29,10 +33,6 @@
   <img align="center" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/riturajjain2000">
-  <img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.hackerrank.com/rrjain20122000">
   <img align="center" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 <br>  
 <div align="center">
 
-## Show some ❤️ And go star some of my repositories!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
+## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
 </div>
 <br>
 <br>

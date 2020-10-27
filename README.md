@@ -21,6 +21,10 @@
   <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://auth.geeksforgeeks.org/user/riturajjain2000/practice">
+  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/geeksforgeeks.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://stackoverflow.com/users/12618131/rituraj-jain">
   <img align="center" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>&nbsp;&nbsp;&nbsp;

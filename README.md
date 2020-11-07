@@ -73,7 +73,7 @@
 
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-blueviolet?style=for-the-badge&logo=Adobe%20XD&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
-![TailwindCss](http://img.shields.io/badge/-TailwindCss-red?style=for-the-badge&logo=Tailwind%20Css&logoColor=ffffff)
+
 
 
 

@@ -53,6 +53,8 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
+
+
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
 <br>
@@ -76,22 +78,14 @@
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-blueviolet?style=for-the-badge&logo=Adobe%20XD&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
 
-
-
-
-
-<img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-<br>  
-
-
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark" />
 </a>
 <br>
 <br>  
 <a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
 </a>
 
 

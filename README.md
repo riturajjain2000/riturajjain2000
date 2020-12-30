@@ -78,7 +78,7 @@
 
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark&layout=compact" />
 </a>
 <br>
 <br>  

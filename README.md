@@ -83,7 +83,7 @@
 <br>
 <br>  
 <a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark&include_all_commits=true" />
 </a>
 
 

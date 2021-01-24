@@ -63,9 +63,11 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![mySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL&logoColor=ffffff)
 
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=000000)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=000000)
 ![Dart](https://img.shields.io/badge/-Dart-cyan?style=for-the-badge&logo=Dart&logoColor=000000)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=C%20Sharp&logoColor=ffffff)
 

@@ -79,12 +79,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
 
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark&layout=compact">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark&layout=compact" />
 </a>
 <br>
 <br>  
-<a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
+<a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark&include_all_commits=true">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark&include_all_commits=true" />
 </a>
 

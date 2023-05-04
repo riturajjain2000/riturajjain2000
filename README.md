@@ -1,4 +1,4 @@
-## Hey Folks,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://www.riturajjain2000.xyz/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
+## Hey Folks,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](http://riturajjain2000.netlify.com/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
  
 <img align="right" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" height="100"/>
 <br>  
